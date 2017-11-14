@@ -38,7 +38,7 @@ namespace Lib
 
 		public int AssignedId { get; set; }
 
-		public List<int> NoteIds { get; set; }
+		public List<int> RecordsId { get; set; }
 	}
 
 	public class Project
