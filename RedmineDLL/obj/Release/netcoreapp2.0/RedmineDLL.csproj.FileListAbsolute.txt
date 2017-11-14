@@ -1,0 +1,9 @@
+D:\Projects\RedFastCacheMine\RedmineDLL\bin\Release\netcoreapp2.0\RedmineDLL.deps.json
+D:\Projects\RedFastCacheMine\RedmineDLL\bin\Release\netcoreapp2.0\RedmineDLL.dll
+D:\Projects\RedFastCacheMine\RedmineDLL\bin\Release\netcoreapp2.0\RedmineDLL.pdb
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.csprojResolveAssemblyReference.cache
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.csproj.CoreCompileInputs.cache
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.AssemblyInfoInputs.cache
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.AssemblyInfo.cs
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.dll
+D:\Projects\RedFastCacheMine\RedmineDLL\obj\Release\netcoreapp2.0\RedmineDLL.pdb

@@ -1,0 +1,13 @@
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\ApiServer.deps.json
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\ApiServer.runtimeconfig.json
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\ApiServer.runtimeconfig.dev.json
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\ApiServer.dll
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\ApiServer.pdb
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\RedmineDLL.dll
+D:\Projects\RedFastCacheMine\ApiServer\bin\Release\netcoreapp2.0\RedmineDLL.pdb
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.csprojResolveAssemblyReference.cache
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.csproj.CoreCompileInputs.cache
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.AssemblyInfoInputs.cache
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.AssemblyInfo.cs
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.dll
+D:\Projects\RedFastCacheMine\ApiServer\obj\Release\netcoreapp2.0\ApiServer.pdb
