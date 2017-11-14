@@ -81,12 +81,12 @@ namespace ApiServer.Lib.Factory
 			ticket.AssignedId = issue.Assigned.Id;
 			ticket.AuthorId = issue.Author.Id;
 
-			ticket.NoteIds = new List<int>();
+			ticket.RecordsId = new List<int>();
 			if (issue.Journals != null)
 			{
 				foreach (var note in issue.Journals)
 				{
-					ticket.NoteIds.Add(note.Id);
+					ticket.RecordsId.Add(note.Id);
 				}
 			}
 		}
